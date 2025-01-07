@@ -1,3 +1,11 @@
+'''
+ChatGPT
+
+https://chatgpt.com/share/677db95c-fc44-8003-87b8-3e6cb551f4e4
+
+with minor edits
+
+'''
 import speech_recognition as sr
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
