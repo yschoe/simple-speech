@@ -11,5 +11,5 @@ ChatGPT로 만든 간단한 음성인식 앱.
 * `python speech.py` 
 
 실행 결과 예제: "후진"을 "우진"으로 오인식하네요.
-   ![speech recog example](speech.png)
+&nbsp;&nbsp;&nbsp;#    ![speech recog example](speech.png)
 
