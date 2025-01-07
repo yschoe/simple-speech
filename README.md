@@ -8,7 +8,7 @@ ChatGPT로 만든 간단한 음성인식 앱.
 시작, 종료, 회전, 직진, 후진.
 ```
 
-* [ChatGPT prompt](https://chatgpt.com/share/677db95c-fc44-8003-87b8-3e6cb551f4e4)
+* [Full ChatGPT prompt](https://chatgpt.com/share/677db95c-fc44-8003-87b8-3e6cb551f4e4)
 * Minor edits: flush print statemnt ; initial message
 
 실행 방법:
